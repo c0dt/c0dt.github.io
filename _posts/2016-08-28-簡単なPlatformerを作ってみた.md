@@ -1,4 +1,17 @@
-# Platformer2DNoname
+# 簡単なPlatformerを作ってみた
+
+できているもの：
+
+* 移動できるプラットフォーム
+* 罠、頭良くない敵
+* 壁を踏んでジャンプする
+
+
+[コードはこちら](https://github.com/colintrinity/Platformer2DNoname)
+
+[ゲームはこちら](http://www.colintrinity.com/games/platformer2d/noname)
+
+#### Screenshots
 
 ![screenshot-01](https://raw.githubusercontent.com/colintrinity/Platformer2DNoname/screenshots/screenshot-01.png "screenshot-01")
 
